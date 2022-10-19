@@ -90,7 +90,9 @@ La particion extendida es utilizable para almacenar datos? *
          No.
 ¿Qué utilidad tiene particionar disco en lugar de solo crear directorios?
 
-         Facilita el mantenimiento del disco duro, la comprobación de errores o la optimización y desfragmentación de las unidades.
+        Hace que sea mas facil el mantenimiento del disco duro , 
+        la comprobación de errores o la optimización
+        y desfragmentación de las unidades.
 
 
 ---
