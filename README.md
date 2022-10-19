@@ -104,6 +104,8 @@
         mkdir -p /Ejercicio_E/{utnba/clases{1..5},utnfra/{clases{1..9},examen}}
         top Es para ver la ram,etc..
         lscpu es para ver el modelo de la cpu, la marca,etc...
+        mkdir -p /2022-09-19/pandemia/{provincial,nacional}/{informes,fotos} En este sigue la continuidad 
+        mkdir -p /2022-09-19/pandemia/{provincial,nacional}/informes/fotos  En este salta de linea
         
 
 
