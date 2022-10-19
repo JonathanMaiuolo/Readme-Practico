@@ -98,6 +98,7 @@
         
         
  -Comando VirtualBox importantes
+        
         du -sh /etc > /tmp/1erExamen/peso.txt && du -sh /home >> /tmp/1erExamen/peso.txt
         mkdir -p /Ejercicio_D/{uba,utnfra}/clase{1..5}/
         mkdir -p /Ejercicio_E/{utnba/clases{1..5},utnfra/{clases{1..9},examen}}
