@@ -70,6 +70,27 @@
 
         .touch /tmp/archivo_vacio
         .cat /dev/null > /tmp/archivo_vacio
+¿Qué es el software libre?
+
+        El software libre es aquel que expone su código y no establece restricciones.
+¿Cuáles son las libertades que establece la Free Software Foundation o Fundación por el Software Libre?
+
+          Libertad de usar el software para cualquier propósito
+          Libertad de examinar el código fuente y modificarlo para adecuarse a las necesidades
+          Libertad de redistribuir el software
+          Libertad de redistribuir el software modificado
+¿Cuántas particiones primarias puedo tener? *
+
+         1 a 4
+¿Cuántas particiones Logicas puedo tener?
+
+        Todas las que entren en la particion extendida
+La particion extendida es utilizable para almacenar datos? *
+
+         No.
+¿Qué utilidad tiene particionar disco en lugar de solo crear directorios?
+
+         Facilita el mantenimiento del disco duro, la comprobación de errores o la optimización y desfragmentación de las unidades.
 
 
 ---
